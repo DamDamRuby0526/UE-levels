@@ -49,7 +49,23 @@
 				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/Fab/Alaskan_Cliff_Rock_8_Free/alaskan_cliff_rock_8_free/StaticMeshes/alaskan_cliff_rock_8_free.uasset",
 				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/Fab/Alaskan_Cliff_Rock_8_Free/alaskan_cliff_rock_8_free/Textures/alaskan_cliff_rock_8_free_texture_0.uasset",
 				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/Fab/Alaskan_Cliff_Rock_8_Free/alaskan_cliff_rock_8_free/Textures/alaskan_cliff_rock_8_free_texture_1.uasset",
-				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/Fab/Alaskan_Cliff_Rock_8_Free/alaskan_cliff_rock_8_free/Textures/alaskan_cliff_rock_8_free_texture_2.uasset"
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/Fab/Alaskan_Cliff_Rock_8_Free/alaskan_cliff_rock_8_free/Textures/alaskan_cliff_rock_8_free_texture_2.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/UI_Interact.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/BP_interactable.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/UI_PointCounter.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/UI_Menu.uasset",
+				"C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
 			]
 		}
 	]
