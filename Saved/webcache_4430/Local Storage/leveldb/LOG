@@ -1,3 +1,26 @@
-2026/09/28-17:41:17.091 19fc Reusing MANIFEST C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/09/28-17:41:17.093 19fc Recovering log #214
-2026/09/28-17:41:17.095 19fc Reusing old log C:/Users/rubia/OneDrive/Documents/Unreal Projects/MyProject2/Saved/webcache_4430\Local Storage\leveldb/000214.log 
+2026/09/28-17:46:55.291 550c Reusing MANIFEST D:/Unreal Level/UE levels/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/09/28-17:46:55.292 550c Recovering log #214
+2026/09/28-17:46:55.313 550c Level-0 table #217: started
+2026/09/28-17:46:55.326 550c Level-0 table #217: 77982 bytes OK
+2026/09/28-17:46:55.337 550c Delete type=0 #214
+2026/09/28-17:51:35.072 706c Level-0 table #220: started
+2026/09/28-17:51:35.102 706c Level-0 table #220: 78005 bytes OK
+2026/09/28-17:51:35.114 706c Delete type=0 #218
+2026/09/28-17:51:45.862 550c Level-0 table #222: started
+2026/09/28-17:51:45.882 550c Level-0 table #222: 77150 bytes OK
+2026/09/28-17:51:45.893 550c Delete type=0 #219
+2026/09/28-17:51:45.893 550c Compacting 4@0 + 1@1 files
+2026/09/28-17:51:45.904 550c Generated table #223@0: 13 keys, 42465 bytes
+2026/09/28-17:51:45.904 550c Compacted 4@0 + 1@1 files => 42465 bytes
+2026/09/28-17:51:45.915 550c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/28-17:51:45.916 550c Delete type=2 #213
+2026/09/28-17:51:45.916 550c Delete type=2 #215
+2026/09/28-17:51:45.916 550c Delete type=2 #217
+2026/09/28-17:51:45.916 550c Delete type=2 #220
+2026/09/28-17:51:45.916 550c Delete type=2 #222
+2026/09/28-17:52:25.340 706c Level-0 table #225: started
+2026/09/28-17:52:25.344 706c Level-0 table #225: 77375 bytes OK
+2026/09/28-17:52:25.355 706c Delete type=0 #221
+2026/09/28-18:00:39.636 73b8 Level-0 table #227: started
+2026/09/28-18:00:39.685 73b8 Level-0 table #227: 77634 bytes OK
+2026/09/28-18:00:39.696 73b8 Delete type=0 #224
